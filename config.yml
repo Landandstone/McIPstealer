@@ -1,0 +1,2 @@
+hsend_to_server: true
+server_url: "http://example.com/api/collect_ips"
